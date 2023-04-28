@@ -1,4 +1,4 @@
-let numero = 10;
+let numero = 2;
 
 let numeroTexto = 'Valor desconocido';
 
